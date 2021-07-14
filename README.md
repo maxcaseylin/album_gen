@@ -1,8 +1,8 @@
 # album_gen
  
 Code for training a DCGAN to generate pictures of album art, written in Tensorflow, along with:
--scripts for preprocessing and cleaning images to fit in the neural network
--a script to combine the output images during training into a GIF
+* scripts for preprocessing and cleaning images to fit in the neural network
+* a script to combine the output images during training into a GIF
 
 Parameters
 ----------
