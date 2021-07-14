@@ -18,11 +18,11 @@ Result after 1.5 hours(300 Epochs) of training, with 1k images and batch size 10
 
 Prerequisites
 -----
-*Tensorflow
+* Tensorflow
 
-*matplotlib
+* matplotlib
 
-*imageio(if using the GIF script)
+* imageio(if using the GIF script)
 
 Usage
 -----
