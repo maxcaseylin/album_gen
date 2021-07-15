@@ -16,6 +16,11 @@ Result after 1.5 hours(300 Epochs) of training, with 1k images and batch size 10
  <img src="/output_gifs/output_1k.gif" title="output_1k" alt="output_1k">
 </p>
 
+Result after about 5 hours(186 Epochs) of training, with 10k images and batch size 128
+<p align="center">
+ <img src="/output_gifs/output_10k.gif" title="output_1k" alt="output_1k">
+</p>
+
 Prerequisites
 -----
 * Tensorflow
