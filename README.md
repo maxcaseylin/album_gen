@@ -4,9 +4,6 @@ Code for training a DCGAN to generate pictures of album art, written in Tensorfl
 * scripts for preprocessing and cleaning images to fit in the neural network
 * a script to combine the output images during training into a GIF
 
-Parameters
-----------
-
 Demos
 -----
 
@@ -21,6 +18,8 @@ Result after about 5 hours(186 Epochs) of training, with 10k images and batch si
  <img src="/output_gifs/output_10k.gif" title="output_1k" alt="output_1k">
 </p>
 
+Due to hardware limitations I haven't been able to train the network as much as I would have liked, so in the future if I have better hardware I'll probably get better results
+
 Prerequisites
 -----
 * Tensorflow
@@ -31,4 +30,4 @@ Prerequisites
 
 Usage
 -----
-
+Personal usage of this repository is NOT recommended as data processing and cleaning are all separate scripts.
