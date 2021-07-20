@@ -3,3 +3,4 @@ training_data/
 .vscode/
 training_checkpoints/
 raw_data/
+celeb_training_data/
